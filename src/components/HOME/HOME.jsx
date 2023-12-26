@@ -7,7 +7,7 @@ import Header from "../Header/Header";
 const HOME = () => {
     return (
         <div>
-        <Header></Header>
+            <Header></Header>
             <About></About>
             <h2>This is home component</h2>
             <Outlet></Outlet>
